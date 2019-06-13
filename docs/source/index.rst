@@ -9,4 +9,3 @@
 
    vision
    admin_list
-   group_list
